@@ -11,7 +11,7 @@ spec:
 
   source:
     repoURL: https://github.com/khneal/gitops-cert-level-2-examples.git
-    targetRevision: HEAD
+    targetRevision: course/3b
     path: ./image-updater/example-app/envs/qa/
    
   destination:
